@@ -1,8 +1,10 @@
-# LangGraph Tutorial Series 📚
+# LangGraph Tutorial 📚
+
+WATCH ON YOUTUBE - 
 
 A comprehensive, hands-on tutorial series for learning **LangGraph** - a powerful framework for building stateful, multi-agent applications with Large Language Models (LLMs).
 
-![LangGraph Logo](https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.png)
+
 
 ## 🚀 What is LangGraph?
 
